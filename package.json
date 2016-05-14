@@ -1,0 +1,11 @@
+{
+  "name": "observ-struct-a",
+  "version": "0.1.0",
+  "description": "",
+  "main": "observ-struct-a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
